@@ -1,0 +1,18 @@
+$states = [
+    'JOHOR',
+    'MELAKA',
+    'NEGERI SEMBILAN',
+    'SELANGOR',
+    'PERAK',
+    'KEDAH',
+    'PULAU PINANG',
+    'PERLIS',
+    'KELANTAN',
+    'PAHANG',
+    'TERENGGANU',
+    'SABAH',
+    'KUALA LUMPUR',
+    'LABUAN',
+    'PUTRAJAYA',
+    'SARAWAK',
+];
